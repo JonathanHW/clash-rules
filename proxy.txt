@@ -1,0 +1,4 @@
+payload:
+  - 'rarbg.tw'
+  - 'rarbg.to'
+  - 'rarbgo.to'
